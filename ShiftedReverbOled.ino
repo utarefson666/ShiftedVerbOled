@@ -6,7 +6,7 @@
 DaisyHardware hw;
 
 
-U8G2_SSD1306_128X64_NONAME_F_4W_SW_SPI oled(U8G2_R0, /* clock=*/ 8, /* data=*/ 10, /* cs=*/ 7, /* dc=*/ 9, /* reset=*/ 29);
+U8G2_SSD1306_128X64_NONAME_F_4W_SW_SPI oled(U8G2_R0, /* clock=*/ 8, /* data=*/ 10, /* cs=*/ 7, /* dc=*/ 9, /* reset=*/ 30);
 
  int    Dtime;
  int    Dsend;
